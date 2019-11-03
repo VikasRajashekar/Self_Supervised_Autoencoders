@@ -24,11 +24,8 @@ Sequential(\
   (3): Sigmoid()\
 )\
 
-Output: \
-Top two rows the input \
-bottom two rows corresponding output\
 
-![CNN_AUTO](/uploads/0b3eb28675f8ea26f72ea436176c4419/CNN_AUTO.png)
+
 
 # 2. Auto Encoder defined using Fully Connected Layers
 
@@ -49,8 +46,5 @@ Sequential(\
   (3): Sigmoid()\
 )\
 
-Output: \
-Top two rows the input \
-bottom two rows corresponding output\
-![FCN_AUTO](/uploads/43aa0a6c2416bce476105d2494a560e8/FCN_AUTO.png)
+
 
